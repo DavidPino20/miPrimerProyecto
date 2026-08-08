@@ -1,0 +1,5 @@
+staging git
+
+cuando tengo un archivo dentro de la rama main que no eh guardado 
+puedo regresarlo o puedo ingresarlo al control de versiones 
+para saber que archivos si y cuales no. 
