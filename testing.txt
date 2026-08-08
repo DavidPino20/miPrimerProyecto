@@ -3,3 +3,9 @@ staging git
 cuando tengo un archivo dentro de la rama main que no eh guardado 
 puedo regresarlo o puedo ingresarlo al control de versiones 
 para saber que archivos si y cuales no. 
+
+git tap
+un tag es una etiqueta que puedes aplicar a un commit para identificarlo fácilmente.
+
+como resolver conflictos de ramas
+merge.
