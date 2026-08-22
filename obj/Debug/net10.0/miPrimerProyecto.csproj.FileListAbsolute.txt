@@ -1,0 +1,5 @@
+/workspaces/miPrimerProyecto/obj/Debug/net10.0/miPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerProyecto/obj/Debug/net10.0/miPrimerProyecto.AssemblyInfoInputs.cache
+/workspaces/miPrimerProyecto/obj/Debug/net10.0/miPrimerProyecto.AssemblyInfo.cs
+/workspaces/miPrimerProyecto/obj/Debug/net10.0/miPrimerProyecto.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerProyecto/obj/Debug/net10.0/miPrimerProyecto.sourcelink.json
